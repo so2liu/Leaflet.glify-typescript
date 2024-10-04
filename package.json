@@ -1,5 +1,5 @@
 {
-  "name": "leaflet.glify",
+  "name": "@so2liu/leaflet.glify",
   "version": "3.3.0",
   "description": "web gl renderer plugin for leaflet",
   "main": "dist/glify.js",
@@ -26,7 +26,7 @@
     "type": "git",
     "url": "git+https://github.com/robertleeplummerjr/Leaflet.glify.git"
   },
-  "author": "",
+  "author": "robertleeplummerjr",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/robertleeplummerjr/Leaflet.glify/issues"
@@ -84,5 +84,10 @@
   },
   "peerDependencies": {
     "leaflet": "1.9.4"
-  }
+  },
+  "keywords": [
+    "leaflet",
+    "webgl",
+    "typescript"
+  ]
 }
